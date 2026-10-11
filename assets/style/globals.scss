@@ -1,0 +1,25 @@
+.itemFloatR {
+  > * {
+    float: right;
+  }
+}
+
+.clear {
+  clear: both;
+}
+
+.center {
+  align-items: 'center';
+}
+
+.mrgTop5 {
+  margin-top: 5px;
+}
+
+.mrgBot5 {
+  margin-bottom: 5px;
+}
+
+.MuiListItem-root {
+  cursor: pointer;
+}
